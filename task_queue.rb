@@ -1,4 +1,4 @@
-require_relative './work'
+require_relative './worker'
 require 'sinatra'
 require 'json'
 
